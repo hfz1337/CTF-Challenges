@@ -1,0 +1,3 @@
+A treasure were found in ESI, near the "X" mark.
+Our specialists tried to extract it, but all their attempts ended by a failure...
+You are our last hope, Soldier.
